@@ -1,10 +1,16 @@
-# Astro with Tailwind
+# Shifter Headless with Buddy
 
 ```
-npm init astro -- --template with-tailwindcss
+git clone https://github.com/getshifter/headless-example-buddy
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/snowpackjs/astro/tree/latest/examples/with-tailwindcss)
+## Shifter Headless
+tk
+
+## Buddy
+tk
+
+## Astro
 
 Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. This example showcases how to style your Astro project with Tailwind.
 
